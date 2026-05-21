@@ -1,0 +1,41 @@
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Editors
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+thumbs.db
+
+# Colab specific
+*.csv
+*.txt
+*.joblib
+KNNModel_Job
+modified.png
+modified.PNG
+
+# Logs
+*.log
+```
